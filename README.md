@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Justin Adap</h1>
+<h3 align="center">A passionate Software Developer from the Philippines</h3>
+ <br>
+<a target="_blank" align="center">
+  <img align="right" top="600" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
-<!--
-**AdapJustin/AdapJustin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently a 4th year student in University of Santo Tomas - Manila
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently taking BS Computer Science major in Intelligent Systems
+
+- 🤝 I’m available for internship.
+
+- 🌱 I’m currently learning Data Science
+
+- 📝 My experiences: coming soon!
+
+- 💬 I love solving problems and developing softwares
+
+- 📫 How to reach me: **justin.t.adap@gmail.com**
