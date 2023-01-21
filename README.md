@@ -12,8 +12,8 @@
 
 - 🤝 I’m available for internship.
 
-- 📝 My experiences: coming soon!
+- 📝 I love solving problems and developing softwares
 
-- 💬 I love solving problems and developing softwares
+- 💬 My experiences: coming soon!
 
 - 📫 How to reach me: **justin.t.adap@gmail.com**
