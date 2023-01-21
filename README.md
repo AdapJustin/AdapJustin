@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Justin Adap 👋</h1>
+<h1 align="center">Hi 👋, I'm Justin Adap</h1>
 <h3 align="center">A passionate Software Developer from the Philippines</h3>
  <br>
 <a target="_blank" align="center">
