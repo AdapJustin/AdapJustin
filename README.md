@@ -12,7 +12,7 @@
 
 - 🤝 I’m available for internship.
 
-- 📝 Portfolio website: <a target="_blank" href="AdapJustin.github.io">AdapJustin.github.io</a>
+- 📝 Portfolio website: <a target="_blank" href="[AdapJustin.github.io](https://adapjustin.github.io)">AdapJustin.github.io</a>
 
 - 💬 My experiences: coming soon! 
 
