@@ -12,8 +12,8 @@
 
 - 🤝 I’m available for internship.
 
-- 📝 I love solving problems and developing softwares
+- 📝 Portfolio website: <a target="_blank" href="AdapJustin.github.io">
 
-- 💬 My experiences: coming soon!
+- 💬 My experiences: coming soon! 
 
 - 📫 How to reach me: **justin.t.adap@gmail.com**
