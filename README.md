@@ -6,14 +6,12 @@
 </a>
 
 
-- 🔭 I’m currently a 4th year student in University of Santo Tomas - Manila
+- 🌱 I’m a BS Computer Science graduate specializing in Core Computer Science,  University of Santo Tomas - Manila
 
-- 🌱 I’m currently taking BS Computer Science major in Intelligent Systems
-
-- 🤝 I’m available for internship.
+- 🤝 I’m open too work.
 
 - 📝 Portfolio website: <a href="https://adapjustin.github.io" target="_blank" >AdapJustin.github.io</a>
 
-- 💬 My experiences: coming soon! 
+- 💬 My experiences: Web Development intern at The Coding School (Feb 2023 - Jun 2023)
 
-- 📫 How to reach me: **justin.t.adap@gmail.com**
+- 📫 Email me at: **justin.t.adap@gmail.com**
