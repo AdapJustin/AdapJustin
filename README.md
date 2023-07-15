@@ -8,7 +8,7 @@
 
 - 🌱 I’m a BS Computer Science graduate specializing in Core Computer Science,  University of Santo Tomas - Manila
 
-- 🤝 I’m open too work.
+- 🤝 I’m open to work.
 
 - 📝 Portfolio website: <a href="https://adapjustin.github.io" target="_blank" >AdapJustin.github.io</a>
 
